@@ -1,7 +1,4 @@
-# README -- Code The Dream Backend Additional Topics
-
-This repository contains the framework for a Rails application called validations. Unfortunately the Treehouse videos do not cover some critical
-skills required of Rails developers.  Therefore we have developed additional material and presentation slides to cover these key subjects.
+# README -- Code The Dream Lessons 4.1, 4.2, 4.3, and 4.4
 
 After you clone the repository, create a new branch called validations, and put your work there.  When you complete the section on Additional Subjects,
 push your validations branch to github and create a pull request.  Then create a new branch called rspec, for the section on Rails Testing with RSpec.
