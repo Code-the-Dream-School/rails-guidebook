@@ -1,4 +1,4 @@
-SQL Joins and Starting Ruby
+# SQL Joins and Starting Ruby
 This week we will finish our introduction to SQL, and start Ruby.
 
 SQL Exercises: A practice SQL environment is at https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
