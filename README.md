@@ -56,9 +56,8 @@ When you have completed both the SQL exercises and the ruby program, push them t
 
 Let's review some key terms and concepts from this week's lesson materials: 
  
- - TBD
- - TBD 
- - TBD 
+ - Querying relational databases 
+ - Ruby basics 
  
 ### :notebook: Assignment Overview
 
@@ -70,7 +69,7 @@ Use this time to answer students questions from the lesson materials and assignm
 
 ### :telescope: Looking Ahead 
 
-XXX
+Next week, we'll learn how to use arrays, collections, loops, and objects in Ruby. 
 
 ### :nerd_face: Mentor Session Report Form 
 
