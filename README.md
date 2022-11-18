@@ -1,54 +1,72 @@
-Test First Ruby -- RSpec 3 Edition
+# Lesson 2.3 Teaching Notes
 ==========
 
-### Set up instructions
+| **Topic** | **Week** | **Class Website** |
+| :---: | :---: | :---: |
+| Ruby Test-First Development | 2.3 | [Link](https://learn.codethedream.org/) |
 
-1. Clone this repo as usual
-2. On your local machine, `cd` into the root folder of this repo in your terminal
-3. run `bundle install` to install all the gems this project needs.
-4. Make a git branch called testfirst-lesson and do the coding for these exercises in that branch.
+## Outline 
+- Overview
+- Sample Mentor Session
+- Common Issues
 
-### Getting started with the exercises
+## Overview 
 
-To work through the first exercise, follow this process
+**Learning Objective:** Students will be able to use Rspec to test a Ruby program and adjust the code to ensure it passes the test.
 
-1. `cd` into `00_hello` from the root folder of this project
-2. Run `rake`, to run the tests. It will fail with the following error:
-  ```
-  Failures:
+**Lesson Steps**
 
-    1) the hello function says hello
-      Failure/Error: expect(hello).to eq("Hello!")
+  - Clone the lesson repo, install the appropriate gems, create a branch called testfirst-lesson. 
+  - Worth through the exercises as described in the lesson instructions 
+  - Complete the troubleshooting steps as necessary. 
 
-      NameError:
-        undefined local variable or method `hello' for #<RSpec::ExampleGroups::TheHelloFunction:0x007fa1221408f0>
-        # ./00_hello/hello_spec.rb:106:in `block (2 levels) in <top (required)>'
-  ```
-3. If the test fails to run and you get a `rake aborted! No Rakefile found` or any other error message not like the one above ensure that your working directory (`pwd` to see the path) contains no spaces as this is a common mistake made by people new to Rspec.
-3. Read the failure output carefully and write the code that will make it pass
-4. Run the tests again with `rake`
-5. This will output that one test has passed and another test failure, write the code to make the next test pass.
-4. Continue this process until all tests pass (when they are green) you have now completed the exercise.
-5. Do this for all the exercises in this project
-5. To get hints and tips about each exercise, view the `index.html` file that is included in each exercise folder
+This is a long assignment - students may need extra time this week. 
 
-When you are complete, push your changes to github as usual, and issue a pull request.
+## Sample Mentor Session 
 
-Basically, this is "error-driven development"... you'll keep running tests, hitting error messages, fixing those messages, running more tests...  It is meant to not only test your Ruby skills but also get you comfortable seeing big scary looking stack traces and error messages.  Most of the development you do at first will be just like this.  In fact, most of *all* development is error-driven.  So get comfortable with it!
+### :wave: Check-In
 
-### Troubleshooting
+#### Check-In Open-Ended Questions 
 
-* Don't name any of your directories with spaces in them! It will give you horribly frustrating error messages and code hates dealing with spaces.  For instance:
+- Start with an icebreaker from this [icebreaker list](https://docs.google.com/document/d/1WbwKn8B5GfRueq7Zbw0zx_k15aqyIqIs23i_WHI-pPI/edit?usp=sharing). 
+- What is something that you are excited to learn more about this week? 
 
-  ```language-bash
-  # BAD:
-  /Documents/My Homework/ruby
+#### Check-In Progress Poll 
 
-  # GOOD:
-  /Documents/my_homework/ruby
-  ```
+- What is your progress on **this week's** materials?
 
+  - [ ] Done
+  - [ ] Almost Done
+  - [ ] Halfway
+  - [ ] Just started
+  - [ ] Haven't started
 
-### Credit
-This is forked from: https://github.com/TheOdinProject/learn_ruby
-The latter is forked from [https://github.com/alexch/learn_ruby](https://github.com/alexch/learn_ruby), its original creator.
+While students are responding to the check-in questions, take attendance. 
+
+### :mag: Content Overview 
+
+Let's review some key terms and concepts from this week's lesson materials: 
+ 
+ - Ruby enumerate 
+ - Ruby gems 
+ - Testing using Rspec
+ 
+### :notebook: Assignment Overview
+
+Let's take a look at the directions for this week's assignment: [Lesson 2.3]
+
+### :thinking: Questions 
+
+Use this time to answer students questions from the lesson materials and assignments. 
+
+### :telescope: Looking Ahead 
+
+Next week, we'll set up our first Rails app. 
+
+### :nerd_face: Mentor Session Report Form 
+
+Please remember to fill out the [Mentor Session Report Form](https://airtable.com/shrp0jjRtoMyTXRzh) at the end of the session.
+
+## Common Issues 
+
+TBD
