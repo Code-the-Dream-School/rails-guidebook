@@ -49,7 +49,7 @@ Let's review some key terms and concepts from this week's lesson materials:
  
 ### :notebook: Assignment Overview
 
-Let's take a look at the directions for this week's assignment: [XXX](XXX)
+Let's take a look at the directions for this week's assignment: [Lesson 5.2](https://github.com/Code-the-Dream-School/R6-rails-ajax)
 
 ### :thinking: Questions 
 
@@ -58,6 +58,14 @@ Use this time to answer students questions from the lesson materials and assignm
 ### :telescope: Looking Ahead 
 
 Next week, students start work on final projects. 
+
+**Instructions for students:**
+
+In addition to the above assignment, you will need to start thinking about what project you will like to build for your final project. The rubric for the
+final project is located here: https://learn.codethedream.org/back-end-2-final-project/ Read through that page, come up with your idea for the final
+project that meets the requirements, and submit your plan using the last several questions on your usual Homework Assignment Submission Form. A mentor of
+the Ruby on Rails class will review your proposal and will communicate with you via Slack to let you know if you can begin your work or if your plan needs
+revisions before you can begin. Please contact your class Cohort Lead if you have any questions.
 
 ### :nerd_face: Mentor Session Report Form 
 
