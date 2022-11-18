@@ -44,9 +44,8 @@ Note: It is not possible to do these exercises in Firefox. Use Chrome, or if you
 
 Let's review some key terms and concepts from this week's lesson materials: 
  
- - TBD
- - TBD 
- - TBD 
+ - Relational databases
+ - SQL and core concepts
  
 ### :notebook: Assignment Overview
 
@@ -54,7 +53,11 @@ Let's take a look at the directions for this week's assignment: [Lesson 1.1](htt
 
 ### :thinking: Questions 
 
-Use this time to answer students questions from the lesson materials and assignments. 
+Use this time to answer students questions from the lesson materials and assignments. Remember to incorporate teaching strategies: 
+
+  - **Think aloud**: Narrate your thinking to show students how developers approach problems. For example, “When I saw this problem, I decided to approach it by…”
+  - Use **positive narration**. For example, “I appreciate that Raheem has his camera on today” or “That was an excellent question.” 
+  - **Warm call** on students or practice **popcorn calling** (students can ask another student for help) if participation is low. 
 
 ### :telescope: Looking Ahead 
 
@@ -62,4 +65,4 @@ Next week, we'll get our first look at Ruby. Has anyone practiced with Ruby befo
 
 ## Common Issues 
 
-TBD
+In the first mentor session, one of your main goals should be establishing rapport with students. Focus on creating a space where it's ok to ask for help or be wrong. Remind students that professional developers need to get help all the time. 
