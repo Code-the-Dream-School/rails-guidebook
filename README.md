@@ -13,7 +13,7 @@
 
 **Learning Objective:** Students will be able to write programs using multiple functions and methods.
 
-Ensure that students have accessed this [Ruby cheatsheet](https://github.com/ThibaultJanBeyer/cheatsheets/blob/master/Ruby-Cheatsheet.md)
+Ensure that students have accessed this [Ruby cheatsheet](https://github.com/ThibaultJanBeyer/cheatsheets/blob/master/Ruby-Cheatsheet.md).
 
 ## Sample Mentor Session 
 
