@@ -1,5 +1,4 @@
 # Lesson 2.3 Teaching Notes
-==========
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
