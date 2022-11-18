@@ -46,7 +46,7 @@ Let's review some key terms and concepts from this week's lesson materials:
  
 ### :notebook: Assignment Overview
 
-Let's take a look at the directions for this week's assignment: [2.2](https://github.com/Code-the-Dream-School/Backend-ruby-methods)
+Let's take a look at the directions for this week's assignment: [Lesson 2.2](https://github.com/Code-the-Dream-School/Backend-ruby-methods)
 
 ### :thinking: Questions 
 
